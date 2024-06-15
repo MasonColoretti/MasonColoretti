@@ -22,13 +22,13 @@
 <!-- About Me Section -->
 - 🔭 I’m currently working on [PhValheim Server](https://github.com/darkhorse7881/phvalheim-server)
 
-- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
+- 🌱 I’m currently learning **GOlang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **JavaScript, Python, and Docker**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **mcoloretti7881@outlook.com**
 
 - ⚡ Fun fact **I love exploring new technologies and solving challenging problems!**
 
@@ -47,8 +47,20 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <!-- Add more icons as needed -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
 </p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
@@ -89,7 +101,6 @@
 <h2 align="center">Fun Facts & Interests</h2>
 <ul align="center">
   <li>🎮 I love playing and developing video games.</li>
-  <li>📸 Photography is one of my favorite hobbies.</li>
   <li>🚀 Always keen on learning new technologies and frameworks.</li>
 </ul>
 
