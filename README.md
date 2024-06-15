@@ -77,7 +77,7 @@
 <h2 align="center">Contribution Graph</h2>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=darkhorse7881&theme=react-dark" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkhorse7881&theme=react-dark" alt="Contribution Graph"/>
   </a>
 </p>
 
