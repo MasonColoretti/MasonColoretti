@@ -33,6 +33,7 @@
 
 <!-- Full-Stack Developer Tools and Technologies -->
 <p align="center">
+  <h2 align="center">Full-Stack Developer Toolkit</h2>
   <!-- Programming Languages for Full-Stack Development -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
