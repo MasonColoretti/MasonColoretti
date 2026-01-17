@@ -70,12 +70,13 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MasonColoretti&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats-mu-nine.vercel.app/api?username=MasonColoretti&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonColoretti&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    <img src="https://github-readme-stats-mu-nine.vercel.app/api/top-langs/?username=MasonColoretti&layout=compact&theme=radical" alt="Top Languages" width="400"/>
   </a>
 </p>
+
 
 <!-- Contribution Graph -->
 <h2 align="center">Contribution Graph</h2>
